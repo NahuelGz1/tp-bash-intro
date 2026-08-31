@@ -1,4 +1,4 @@
-# Trabajo Práctico - Bash Scripting
+# Trabajo Práctico - Bash Script
 
 ## Integrantes del Grupo
 * **Santiago Gutierrez** - Padrón: 116085
