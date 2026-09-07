@@ -1,12 +1,15 @@
-105420 Perez Juan 9
-108331 Gomez Nahuel 10
-98421 Rodriguez Sofia 7
-102550 Lopez Martin 4
-109112 Fernandez Lucia 10
-95301 Martinez Carlos 6
-104882 Diaz Camila 8
-107994 Alvarez Lucas 5
-103210 Benitez Maria 8
-101452 Rossi Mateo 2
-106778 Romero Valentina 9
-99812 Herrera Nicolas 3
+103456 Martín Acosta macosta@fi.uba.ar 6
+118765 Sofía Herrera sherrera@fi.uba.ar 3
+95421 Diego Molina dmolina@fi.uba.ar 8
+101987 Valentina Rios vrios@fi.uba.ar 2
+87654 Nicolás Ferreyra nferreyra@fi.uba.ar 9
+112340 Camila Suárez csuarez@fi.uba.ar 5
+99887 Tomás Bianchi tbianchi@fi.uba.ar 7
+104512 Agustina Torres atorres@fi.uba.ar 4
+90123 Ezequiel Paz epaz@fi.uba.ar 10
+115678 Milagros Correa mcorrea@fi.uba.ar 1
+98234 Bruno Silveira bsilveira@fi.uba.ar 6
+107891 Renata Ibáñez ribanez@fi.uba.ar 8
+93456 Ignacio Rojas irojas@fi.uba.ar 3
+119012 Florencia Núñez fnunez@fi.uba.ar 9
+88765 Matías Ledesma mledesma@fi.uba.ar 5
